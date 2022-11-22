@@ -94,6 +94,7 @@ header {
 .header-content input {
     width: 600px;
     padding: 25px 10px;
+    outline: none;
 }
 
 .header-content button {
@@ -188,7 +189,7 @@ main {
 .m-watch {
     width: 100%;
     border-bottom: 10px solid #303030;
-    padding: 40px 120px;
+    padding: 40px 100px;
 }
 
 .text-watch {
