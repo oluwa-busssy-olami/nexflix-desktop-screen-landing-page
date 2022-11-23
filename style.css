@@ -148,9 +148,10 @@ main {
 .m-img .img-1 {
     width: 100%;
     display: block;
+    background: transparent;
 }
 
-.m-img .img-2 {
+.m-img video {
     position: absolute;
     top: 100px;
     left: 100px;
@@ -261,7 +262,7 @@ main {
     align-items: center;
 }
 
-.button-btn button {
+.button details {
     padding: 25px 20px;
     width: 800px;
     margin-bottom: 10px;
